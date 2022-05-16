@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yagami-xx
-- 👀 I’m interested in Java, C++, Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, C++, Flutter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me phone: +923200250878 Email: mohsinshahid10@gmail.com 
 
